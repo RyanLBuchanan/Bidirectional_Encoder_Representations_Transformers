@@ -3,7 +3,11 @@
 
 # Import the libraries
 !pip3 install ktrain
-
+import os.path
+import numpy as np
+import tensorflow as tf
+import ktrain
+from ktrain import text
 
 # Data prepocessing
 
